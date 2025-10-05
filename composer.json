@@ -1,0 +1,28 @@
+{
+    "name": "raisaldi/summernote",
+    "description": "Mirror and Composer-ready fork of summernote/summernote — a super simple WYSIWYG editor built on Bootstrap and jQuery.",
+    "type": "library",
+    "keywords": ["summernote", "wysiwyg", "editor", "bootstrap", "jquery", "text-editor"],
+    "homepage": "https://github.com/raisal-saldi/summernote",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Muhammad Raisaldi",
+            "homepage": "https://github.com/raisaldi",
+            "role": "Maintainer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/raisal-saldi/summernote/issues",
+        "source": "https://github.com/raisal-saldi/summernote"
+    },
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {},
+    "extra": {
+        "branch-alias": {
+            "dev-main": "1.0.x-dev"
+        }
+    }
+}
